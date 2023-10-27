@@ -1,0 +1,2 @@
+criar a tabela classificação usuario
+com os campos id_classificação e fotografo(sim ou não) e descrição
